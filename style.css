@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image: linear-gradient(to right top, #008cff,#ffffff, #7abfff, #5020ff, #ffffff, #00c3ff);
+    background-position:center;
+    background-size:cover;
+    font-family: 'Lobster', cursive;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-image: linear-gradient(to right top, #ff00bf,#ffffff, #ff39c3, #b120ff, #ffffff, #ff0033); 
+    border-style:ridge;
+    font-family: 'Lobster', cursive;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+    font-family: 'Lobster', cursive;
+}
+
